@@ -1,5 +1,5 @@
 testing
 testing
-teaing 
+teaings
 testing
 

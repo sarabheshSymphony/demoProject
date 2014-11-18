@@ -8,7 +8,7 @@
 
     <article>
         <p>        
-            Use this area to provide additional information. chanti
+            Use this area to provide additional information.
         </p>
 
         <p>        
